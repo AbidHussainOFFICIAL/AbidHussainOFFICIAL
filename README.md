@@ -1,4 +1,4 @@
-# 🚀 Abid Hussain – **Software Engineer | AI & Chatbots Specialist | Full-Stack Developer**
+# Abid Hussain – **Software Engineer | AI & Chatbots Specialist | Full-Stack Developer**
 
 > Passionate about **building scalable web applications, AI-driven solutions, and contributing to open-source projects.**
 
@@ -10,15 +10,15 @@ I thrive on solving complex problems and building real-world projects with **cle
 Currently, I’m enhancing my skills in **Advanced JavaScript**.  
 
 📍 **Location:** *Karachi, Pakistan... basically just a tiny dot in the universe! 🌍*  
-📧 **Email:** [abidhussainkhaskheli786a@gmail.com](mailto:abidhussainkhaskheli786a@gmail.com)  
-🔗 **Portfolio:** *Coming Soon*  
-💼 **LinkedIn:** [in/abidhussainsoftware](https://www.linkedin.com/in/abidhussainsoftware)  
-🖥️ **GitHub:** [AbidHussainOFFICIAL](https://github.com/AbidHussainOFFICIAL)  
+**Email:** [abidhussainkhaskheli786a@gmail.com](mailto:abidhussainkhaskheli786a@gmail.com)  
+**Portfolio:** *Coming Soon*  
+**LinkedIn:** [in/abidhussainsoftware](https://www.linkedin.com/in/abidhussainsoftware)  
+**GitHub:** [AbidHussainOFFICIAL](https://github.com/AbidHussainOFFICIAL)  
 
 ---
 
 <p align="center">
-  <img src="https://github.com/AbidHussainOFFICIAL/AbidHussainOFFICIAL/blob/main/assets/banner.png" alt="Custom Banner" width="80%">
+  <img src="https://github.com/AbidHussainOFFICIAL/AbidHussainOFFICIAL/blob/main/assets/banner.png.jpg" alt="Custom Banner" width="80%">
 </p>
 
 ---
@@ -50,8 +50,7 @@ Currently, I’m enhancing my skills in **Advanced JavaScript**.
 
 
 > *Enhancing profiles with badges that showcase skills, achievements, and contributions!*  
-
-### 🏆 **Shields.io Badges**  
+ 
 <p align="center">
   <img src="https://img.shields.io/github/followers/AbidHussainOFFICIAL?label=Followers&style=social">
   <img src="https://img.shields.io/github/stars/AbidHussainOFFICIAL?affiliations=OWNER&style=social">
@@ -60,7 +59,7 @@ Currently, I’m enhancing my skills in **Advanced JavaScript**.
 
 ---
 
-## 📊 **GitHub Stats & Streaks**  
+## 📊 **Stats & Streaks**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbidHussainOFFICIAL&show_icons=true&theme=radical" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbidHussainOFFICIAL&theme=radical" width="48%">
@@ -75,29 +74,28 @@ Currently, I’m enhancing my skills in **Advanced JavaScript**.
 
 ---
 
-## 🚀 **Projects**
 
 ### 📌 **Featured Projects**
 
 🔹 **AI-Powered Healthcare System**  
-🚀 AI-driven patient diagnosis & mental health support.  
-🔗 [Live Demo](#) | [GitHub Repo](#)  
+AI-driven patient diagnosis & mental health support.  
+[Live Demo](#) | [GitHub Repo](#)  
 
 🔹 **Airline Management System**  
-🚀 Dynamic pricing with AI integration.  
-🔗 [Live Demo](#) | [GitHub Repo](#)  
+ Dynamic pricing with AI integration.  
+ [Live Demo](#) | [GitHub Repo](#)  
 
 🔹 **StudyNotion LMS**  
-🚀 Full-fledged MERN-based Learning Management System.  
-🔗 [Live Demo](#) | [GitHub Repo](#)  
+ Full-fledged MERN-based Learning Management System.  
+ [Live Demo](#) | [GitHub Repo](#)  
 
 🔹 **PortfolioX**  
-🚀 A dynamic personal portfolio built with React.  
-🔗 [Live Demo](#) | [GitHub Repo](#)  
+ A dynamic personal portfolio built with React.  
+ [Live Demo](#) | [GitHub Repo](#)  
 
 🔹 **Cake Selling Website**  
-🚀 E-commerce platform for a bakery business with Stripe payments.  
-🔗 [Live Demo](#) | [GitHub Repo](#)  
+ E-commerce platform for a bakery business with Stripe payments.  
+ [Live Demo](#) | [GitHub Repo](#)  
 
 📌 **Check out my repositories:** [GitHub Repos](https://github.com/AbidHussainOFFICIAL)  
 
@@ -135,7 +133,7 @@ Currently, I’m enhancing my skills in **Advanced JavaScript**.
 ## 🎯 **How You Can Help Me**  
 ✅ **Star** my repositories ⭐  
 ✅ **Follow** me on GitHub 🔥  
-✅ **Let’s collaborate on something amazing!** 🚀  
+✅ **Let’s collaborate on something amazing!**  
 
 ---
 
