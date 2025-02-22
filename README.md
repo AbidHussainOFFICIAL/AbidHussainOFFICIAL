@@ -1,4 +1,4 @@
-# Abid Hussain – **Software Engineer | AI & Chatbots Specialist | Full-Stack Developer**
+# 🚀 Abid Hussain – **Software Engineer | AI & Chatbots Specialist | Full-Stack Developer**
 
 > Passionate about **building scalable web applications, AI-driven solutions, and contributing to open-source projects.**
 
@@ -10,39 +10,45 @@ I thrive on solving complex problems and building real-world projects with **cle
 Currently, I’m enhancing my skills in **Advanced JavaScript**.  
 
 📍 **Location:** *Karachi, Pakistan... basically just a tiny dot in the universe! 🌍*  
-**Email:** [abidhussainkhaskheli786a@gmail.com](mailto:abidhussainkhaskheli786a@gmail.com)  
-**Portfolio:** *Coming Soon*  
-**LinkedIn:** [in/abidhussainsoftware](https://www.linkedin.com/in/abidhussainsoftware)  
-**GitHub:** [AbidHussainOFFICIAL](https://github.com/AbidHussainOFFICIAL)  
+📧 **Email:** [abidhussainkhaskheli786a@gmail.com](mailto:abidhussainkhaskheli786a@gmail.com)  
+🔗 **Portfolio:** *Coming Soon*  
+💼 **LinkedIn:** [in/abidhussainsoftware](https://www.linkedin.com/in/abidhussainsoftware)  
+🖥️ **GitHub:** [AbidHussainOFFICIAL](https://github.com/AbidHussainOFFICIAL)  
 
 ---
 
 <p align="center">
-  <img src="https://github.com/AbidHussainOFFICIAL/AbidHussainOFFICIAL/blob/main/assets/banner.png.jpg" alt="Custom Banner" width="80%">
+  <img src="https://github.com/AbidHussainOFFICIAL/AbidHussainOFFICIAL/blob/main/assets/banner.png" alt="Custom Banner" width="80%">
 </p>
 
 ---
 
 ## 🛠 **Tech Stack**
 
-### 🚀 **Programming Languages**
-- **JavaScript (Node.js, React.js, TypeScript)**  
-- **C, C++, Java**  
-- **HTML, CSS**  
-
-### 🖥️ **Web Development**
-- **MERN Stack (MongoDB, Express, React, Node.js)**  
-- **Next.js (Full-Stack Web Apps)**  
-- **REST APIs & Microservices**  
-
-### 🗄️ **Databases**
-- **MySQL**  
-- **MongoDB**  
-
-### ⚙️ **Tools & Other Skills**
-- **Stripe (Payment Integration)**  
-- **Git, GitHub & CI/CD**  
-- **Docker**  
+<p align="center">
+  <table>
+    <tr>
+      <th>Category</th>
+      <th>Technologies</th>
+    </tr>
+    <tr>
+      <td><b>Programming Languages</b></td>
+      <td>JavaScript (Node.js, React.js, TypeScript), C, C++, Java, HTML, CSS</td>
+    </tr>
+    <tr>
+      <td><b>Web Development</b></td>
+      <td>MERN Stack (MongoDB, Express, React, Node.js), Next.js, REST APIs, Microservices</td>
+    </tr>
+    <tr>
+      <td><b>Databases</b></td>
+      <td>MySQL, MongoDB</td>
+    </tr>
+    <tr>
+      <td><b>Tools & Other Skills</b></td>
+      <td>Stripe (Payment Integration), Git, GitHub, CI/CD, Docker</td>
+    </tr>
+  </table>
+</p>
 
 ---
 
@@ -50,7 +56,8 @@ Currently, I’m enhancing my skills in **Advanced JavaScript**.
 
 
 > *Enhancing profiles with badges that showcase skills, achievements, and contributions!*  
- 
+
+### 🏆 **Shields.io Badges**  
 <p align="center">
   <img src="https://img.shields.io/github/followers/AbidHussainOFFICIAL?label=Followers&style=social">
   <img src="https://img.shields.io/github/stars/AbidHussainOFFICIAL?affiliations=OWNER&style=social">
@@ -59,7 +66,7 @@ Currently, I’m enhancing my skills in **Advanced JavaScript**.
 
 ---
 
-## 📊 **Stats & Streaks**  
+## 📊 **GitHub Stats & Streaks**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbidHussainOFFICIAL&show_icons=true&theme=radical" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbidHussainOFFICIAL&theme=radical" width="48%">
@@ -74,30 +81,44 @@ Currently, I’m enhancing my skills in **Advanced JavaScript**.
 
 ---
 
+## 🚀 **Projects**
 
-### 📌 **Featured Projects**
+<p align="center">
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Links</th>
+    </tr>
+    <tr>
+      <td><b>AI-Powered Healthcare System</b></td>
+      <td>AI-driven patient diagnosis & mental health support.</td>
+      <td><a href="#">Live Demo</a> | <a href="#">GitHub Repo</a></td>
+    </tr>
+    <tr>
+      <td><b>Airline Management System</b></td>
+      <td>Dynamic pricing with AI integration.</td>
+      <td><a href="#">Live Demo</a> | <a href="#">GitHub Repo</a></td>
+    </tr>
+    <tr>
+      <td><b>StudyNotion LMS</b></td>
+      <td>Full-fledged MERN-based Learning Management System.</td>
+      <td><a href="#">Live Demo</a> | <a href="#">GitHub Repo</a></td>
+    </tr>
+    <tr>
+      <td><b>PortfolioX</b></td>
+      <td>A dynamic personal portfolio built with React.</td>
+      <td><a href="#">Live Demo</a> | <a href="#">GitHub Repo</a></td>
+    </tr>
+    <tr>
+      <td><b>Cake Selling Website</b></td>
+      <td>E-commerce platform for a bakery business with Stripe payments.</td>
+      <td><a href="#">Live Demo</a> | <a href="#">GitHub Repo</a></td>
+    </tr>
+  </table>
+</p>
 
-🔹 **AI-Powered Healthcare System**  
-AI-driven patient diagnosis & mental health support.  
-[Live Demo](#) | [GitHub Repo](#)  
-
-🔹 **Airline Management System**  
- Dynamic pricing with AI integration.  
- [Live Demo](#) | [GitHub Repo](#)  
-
-🔹 **StudyNotion LMS**  
- Full-fledged MERN-based Learning Management System.  
- [Live Demo](#) | [GitHub Repo](#)  
-
-🔹 **PortfolioX**  
- A dynamic personal portfolio built with React.  
- [Live Demo](#) | [GitHub Repo](#)  
-
-🔹 **Cake Selling Website**  
- E-commerce platform for a bakery business with Stripe payments.  
- [Live Demo](#) | [GitHub Repo](#)  
-
-📌 **Check out my repositories:** [GitHub Repos](https://github.com/AbidHussainOFFICIAL)  
+📌 **Check out my repositories:** [GitHub Repos](https://github.com/AbidHussainOFFICIAL)
 
 ---
 
@@ -133,7 +154,7 @@ AI-driven patient diagnosis & mental health support.
 ## 🎯 **How You Can Help Me**  
 ✅ **Star** my repositories ⭐  
 ✅ **Follow** me on GitHub 🔥  
-✅ **Let’s collaborate on something amazing!**  
+✅ **Let’s collaborate on something amazing!** 🚀  
 
 ---
 
