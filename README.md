@@ -46,15 +46,16 @@ Currently, I’m enhancing my skills in **Advanced JavaScript**.
 
 ---
 
-## 🎨 **Enhancements**
+## 🏅 **Badges & Enhancements**
 
-### 🖼️ **GIFs & Animated Text**
-> *Bringing profiles to life with motion and creativity!*  
 
-### 🏅 **Shields.io Badges**  
+> *Enhancing profiles with badges that showcase skills, achievements, and contributions!*  
+
+### 🏆 **Shields.io Badges**  
 <p align="center">
   <img src="https://img.shields.io/github/followers/AbidHussainOFFICIAL?label=Followers&style=social">
   <img src="https://img.shields.io/github/stars/AbidHussainOFFICIAL?affiliations=OWNER&style=social">
+  <img src="https://komarev.com/ghpvc/?username=AbidHussainOFFICIAL&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
 </p>
 
 ---
