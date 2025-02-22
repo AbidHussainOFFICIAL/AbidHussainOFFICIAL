@@ -1,19 +1,19 @@
-# 🚀 Abid Hussain – **Software Engineer | AI & Chatbots Specialist | Full-Stack Developer**
+#  Abid Hussain – **Software Engineer | AI & Chatbots Specialist | Full-Stack Developer**
 
 > Passionate about **building scalable web applications, AI-driven solutions, and contributing to open-source projects.**
 
 ---
 
-## 🌟 **About Me**  
+## **About Me**  
 👋 Hi, I’m **Abid Hussain**, a **Full-Stack Developer** with expertise in **MERN Stack**, **Database Management**, and **AI Integration**.  
 I thrive on solving complex problems and building real-world projects with **clean, scalable code**.  
 Currently, I’m enhancing my skills in **Advanced JavaScript**.  
 
-📍 **Location:** *Karachi, Pakistan... basically just a tiny dot in the universe! 🌍*  
-📧 **Email:** [abidhussainkhaskheli786a@gmail.com](mailto:abidhussainkhaskheli786a@gmail.com)  
-🔗 **Portfolio:** *Coming Soon*  
-💼 **LinkedIn:** [in/abidhussainsoftware](https://www.linkedin.com/in/abidhussainsoftware)  
-🖥️ **GitHub:** [AbidHussainOFFICIAL](https://github.com/AbidHussainOFFICIAL)  
+📍 **Location:** *Karachi, Pakistan... basically just a tiny dot in the universe! *##  🌍
+ **Email:** [abidhussainkhaskheli786a@gmail.com](mailto:abidhussainkhaskheli786a@gmail.com)  
+ **Portfolio:** *Coming Soon*  
+ **LinkedIn:** [in/abidhussainsoftware](https://www.linkedin.com/in/abidhussainsoftware)  
+ **GitHub:** [AbidHussainOFFICIAL](https://github.com/AbidHussainOFFICIAL)  
 
 ---
 
@@ -57,7 +57,6 @@ Currently, I’m enhancing my skills in **Advanced JavaScript**.
 
 > *Enhancing profiles with badges that showcase skills, achievements, and contributions!*  
 
-### 🏆 **Shields.io Badges**  
 <p align="center">
   <img src="https://img.shields.io/github/followers/AbidHussainOFFICIAL?label=Followers&style=social">
   <img src="https://img.shields.io/github/stars/AbidHussainOFFICIAL?affiliations=OWNER&style=social">
@@ -81,7 +80,7 @@ Currently, I’m enhancing my skills in **Advanced JavaScript**.
 
 ---
 
-## 🚀 **Projects**
+##  **Projects**
 
 <p align="center">
   <table>
@@ -154,7 +153,7 @@ Currently, I’m enhancing my skills in **Advanced JavaScript**.
 ## 🎯 **How You Can Help Me**  
 ✅ **Star** my repositories ⭐  
 ✅ **Follow** me on GitHub 🔥  
-✅ **Let’s collaborate on something amazing!** 🚀  
+✅ **Let’s collaborate on something amazing!** 
 
 ---
 
