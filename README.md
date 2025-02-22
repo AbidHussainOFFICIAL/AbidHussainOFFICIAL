@@ -1,4 +1,4 @@
-# **Software Engineer – AI & Chatbots Specialist | Full-Stack Developer**
+# **Software Engineer – AI & Chatbots Specialist | Full-Stack**
 
 > Passionate about **building scalable web applications, AI-driven solutions, and contributing to open-source projects.**
 
