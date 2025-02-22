@@ -9,7 +9,7 @@
 I thrive on solving complex problems and building real-world projects with **clean, scalable code**.  
 Currently, I’m enhancing my skills in **Advanced JavaScript**.  
 
-📍 **Location:** *Karachi, Pakistan... basically just a tiny dot in the universe! *##  🌍
+📍 **Location:** *Karachi, Pakistan... basically just a tiny dot in the universe! *🌍
  **Email:** [abidhussainkhaskheli786a@gmail.com](mailto:abidhussainkhaskheli786a@gmail.com)  
  **Portfolio:** *Coming Soon*  
  **LinkedIn:** [in/abidhussainsoftware](https://www.linkedin.com/in/abidhussainsoftware)  
