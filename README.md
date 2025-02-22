@@ -9,6 +9,11 @@
 I thrive on solving complex problems and building real-world projects with **clean, scalable code**.  
 Currently, I’m enhancing my skills in **Advanced JavaScript**.  
 
+<p align="center">
+  <img src="https://github.com/AbidHussainOFFICIAL/AbidHussainOFFICIAL/blob/main/assets/banner.png.jpg" alt="Custom Banner">
+</p>
+
+
 📍 **Location:** *Karachi, Pakistan... basically just a tiny dot in the universe! 🌍*  
 📧 **Email:** [abidhussainkhaskheli786a@gmail.com](mailto:abidhussainkhaskheli786a@gmail.com)  
 🔗 **Portfolio:** *Coming Soon*  
