@@ -13,72 +13,37 @@ Currently, I’m enhancing my skills in **Advanced JavaScript**.
   <img src="https://github.com/AbidHussainOFFICIAL/AbidHussainOFFICIAL/blob/main/assets/banner.png.jpg" alt="Custom Banner">
 </p>
 
+<p align="center">
+  <img src="https://github.com/AbidHussainOFFICIAL/AbidHussainOFFICIAL/blob/main/assets/banner.png.jpg" alt="Custom Banner">
+</p>
+
+### 🎉 GIFs & Animated Text  
+- **Animated Text**: *Bringing profiles to life with motion!*  
+
+### 🛠 Shields.io Badges  
+![GitHub followers](https://img.shields.io/github/followers/AbidHussainOFFICIAL?label=Follow&style=social)  
+![GitHub stars](https://img.shields.io/github/stars/AbidHussainOFFICIAL?affiliations=OWNER&style=social)  
 
 📍 **Location:** *Karachi, Pakistan... basically just a tiny dot in the universe! 🌍*  
 📧 **Email:** [abidhussainkhaskheli786a@gmail.com](mailto:abidhussainkhaskheli786a@gmail.com)  
 🔗 **Portfolio:** *Coming Soon*  
 💼 **LinkedIn:** [in/abidhussainsoftware](https://www.linkedin.com/in/abidhussainsoftware)  
-🖥️ **GitHub:** [AbidHussainOFFICIAL](https://github.com/AbidHussainOFFICIAL)  
+🎥 **GitHub:** [AbidHussainOFFICIAL](https://github.com/AbidHussainOFFICIAL)  
 
 ---
 
-## 🛠 **Tech Stack**  
-
-### 🚀 **Programming Languages**  
-- **JavaScript (Node.js, React.js, TypeScript)**  
-- **C, C++, Java**  
-- **HTML, CSS**  
-
-### 🖥️ **Web Development**  
-- **MERN Stack (MongoDB, Express, React, Node.js)**  
-- **Next.js (Full-Stack Web Apps)**  
-- **REST APIs & Microservices**  
-
-### 🗄️ **Databases**  
-- **MySQL**  
-- **MongoDB**  
-
-### ⚙️ **Tools & Other Skills**  
-- **Stripe (Payment Integration)**  
-- **Git, GitHub & CI/CD**  
-- **Docker**  
-
----
-
-## 🚀 **Projects**  
-
-### 📌 **Featured Projects**  
-
-🔹 **AI-Powered Healthcare System**  
-🚀 AI-driven patient diagnosis & mental health support.  
-🔗 [Live Demo](#) | [GitHub Repo](#)  
-
-🔹 **Airline Management System**  
-🚀 Dynamic pricing with AI integration.  
-🔗 [Live Demo](#) | [GitHub Repo](#)  
-
-🔹 **StudyNotion LMS**  
-🚀 Full-fledged MERN-based Learning Management System.  
-🔗 [Live Demo](#) | [GitHub Repo](#)  
-
-🔹 **PortfolioX**  
-🚀 A dynamic personal portfolio built with React.  
-🔗 [Live Demo](#) | [GitHub Repo](#)  
-
-🔹 **Cake Selling Website**  
-🚀 E-commerce platform for a bakery business with Stripe payments.  
-🔗 [Live Demo](#) | [GitHub Repo](#)  
-
-📌 **Check out my repositories:** [GitHub Repos](https://github.com/AbidHussainOFFICIAL)  
-
----
-
-## 📊 **GitHub Stats**  
+## 📊 **GitHub Stats & Streaks**  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbidHussainOFFICIAL&show_icons=true&hide_title=true&theme=radical)  
 
 📌 **Streaks & Contributions:**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbidHussainOFFICIAL&theme=radical)  
+
+### 📈 Profile Views Counter  
+![Profile Views](https://komarev.com/ghpvc/?username=AbidHussainOFFICIAL&color=blueviolet)  
+
+### 📊 Contribution Graph  
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AbidHussainOFFICIAL&theme=dracula)  
 
 ---
 
@@ -87,7 +52,7 @@ Currently, I’m enhancing my skills in **Advanced JavaScript**.
 🔗 [LinkedIn](https://www.linkedin.com/in/abidhussainsoftware)  
 📧 [Email](mailto:abidhussainkhaskheli786a@gmail.com)  
 🚀 [GitHub](https://github.com/AbidHussainOFFICIAL)  
-🐦 [Twitter](https://twitter.com/AbidHussainOFF)  
+🐥 [Twitter](https://twitter.com/AbidHussainOFF)  
 
 ---
 
@@ -110,4 +75,5 @@ If you find my work useful:
 
 ---
 
-## 🔥 **Let’s Build Something Great Together!** 🚀  
+## 🔥 **Let’s Build Something Great Together!** 🚀
+
