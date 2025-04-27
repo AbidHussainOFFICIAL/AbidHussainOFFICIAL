@@ -10,6 +10,7 @@ I thrive on solving complex problems and delivering real-world projects with **c
 Currently, I’m deepening my expertise in **Advanced JavaScript** and **AI-based technologies**.
 
 🧠**Experience:** 3+ years building modern web and AI solutions
+---
 📍 **Location:** *Karachi, Pakistan... a tiny dot dreaming big on the world map! *🌍
 ---
  **Email:** [abidhussainkhaskheli786a@gmail.com](mailto:abidhussainkhaskheli786a@gmail.com)  
