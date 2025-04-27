@@ -9,8 +9,8 @@
 I thrive on solving complex problems and delivering real-world projects with **clean, scalable, and efficient code**.  
 Currently, I’m deepening my expertise in **Advanced JavaScript** and **AI-based technologies**.
 
-🧠**Experience:** 3+ years building modern web and AI solutions
----
+🧠 **Experience:** 3+ years building modern web and AI solutions
+##
 📍 **Location:** Karachi, Pakistan... a tiny dot dreaming big on the world map!🌍
 ---
  **Email:** [abidhussainkhaskheli786a@gmail.com](mailto:abidhussainkhaskheli786a@gmail.com)  
@@ -149,11 +149,11 @@ Currently, I’m deepening my expertise in **Advanced JavaScript** and **AI-base
 ---
 
 ## 🎯 **How You Can Help Me**  
-✅ **Star** my repositories to support my work. ⭐  
-✅ **Follow** me on GitHub for more exciting projects. 🔥  
+✅ **Star** my repositories to support my work. 
+✅ **Follow** me on GitHub for more exciting projects. 
 ✅ **Let’s collaborate and build something impactful!** 
 
 ---
 
-## 🔥 **Let’s Build the Future Together!** 🚀
+## **Let’s Build the Future Together!** 🚀
 
