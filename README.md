@@ -142,11 +142,6 @@ Currently, I’m deepening my expertise in **Advanced JavaScript** and **AI-base
 
 ---
 
-## ⚡ **Fun Fact**  
-🎮 I love playing **Clash of Clans** and **PUBG**!  
-
----
-
 ## 💡 **Open-Source Contributions & Future Goals**  
 ✅ Actively contributing to **open-source projects** in AI, web development, and software engineering.  
 ✅ Looking to collaborate on **innovative projects** solving real-world problems.  
