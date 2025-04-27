@@ -5,7 +5,7 @@
 ---
 
 ## **About Me**  
-👋 Hi, I’m **Abid Hussain**, a **Full-Stack Developer** with expertise in **MERN Stack**, **Database Management**, and **AI Integration**.  
+👋 Hi, I’m **Abid Hussain**, a **Full-Stack Developer** with expertise in **Website Development**, **Database Management**, and **AI Integration**.  
 I thrive on solving complex problems and building real-world projects with **clean, scalable code**.  
 Currently, I’m enhancing my skills in **Advanced JavaScript**.  
 
