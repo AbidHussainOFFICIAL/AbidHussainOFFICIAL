@@ -1,13 +1,13 @@
-# **Software Engineer – Full-Stack Developer | AI Chatbots Specialist**
+# **Software Engineer – Full-Stack Developer | Website Specialist**
 
 > Passionate about **building scalable web applications, AI-driven solutions, and contributing to open-source projects to make technology better for everyone.**
 
 ---
 
 ## **About Me**  
-👋 Hi, I’m **Abid Hussain**, a **Full-Stack Developer** and **AI Enthusiast** with expertise in **Website Development**, **Database Management**, and **AI Integration**.  
+👋 Hi, I’m **Abid Hussain**, a **Full-Stack Developer** and **Website Enthusiast** with expertise in **Website Development**, **Database Management**, and **AI Integration**.  
 I thrive on solving complex problems and delivering real-world projects with **clean, scalable, and efficient code**.  
-Currently, I’m deepening my expertise in **Advanced JavaScript** and **AI-based technologies**.
+Currently, I’m deepening my expertise in **Advanced JavaScript** and **technologies**.
 
 🧠 **Experience:** 3+ years building modern web and AI solutions
 
