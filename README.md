@@ -1,4 +1,4 @@
-# **Software Engineer – Full-Stack Developer | Website Specialist**
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **Software Engineer – Full-Stack Developer | Website Specialist**
 
 > Passionate about **building scalable web applications and AI-driven solutions. I'm dedicated to contributing to open-source projects to make technology better for everyone.** In my free time, I enjoy exploring new advancements in AI and hiking in the local hills.
 
@@ -27,45 +27,36 @@
 
 ---
 
-## 🛠 **Tech Stack**
+## 🛠️ **Tech Stack**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" title="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" title="Express.js">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" title="Next.js">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker">
+  <img src="https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" title="Stripe">
 </p>
 
 ---
 
-## 🏅 **Badges & Enhancements**
+## 🏅 **Badges & Recognition**
 
 > *Celebrating the journey with community love and support 🚀*
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/AbidHussainOFFICIAL?label=Followers&style=social">
   <img src="https://img.shields.io/github/stars/AbidHussainOFFICIAL?affiliations=OWNER&style=social">
-  <img src="https://komarev.com/ghpvc/?username=AbidHussainOFFICIAL&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=AbidHussainOFFICIAL&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views">
   <img src="https://img.shields.io/badge/React-Enthusiast-61DAFB?style=flat-square" alt="React Enthusiast">
   <img src="https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=flat-square" alt="Open Source Contributor">
-</p>
-
----
-
-## 📊 **GitHub Stats & Streaks**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbidHussainOFFICIAL&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbidHussainOFFICIAL&theme=radical" width="48%" alt="GitHub Streak">
 </p>
 
 ---
@@ -94,10 +85,9 @@
 
 ---
 
-## **Projects**
+## 🌟 **Key Source Projects**
 
 <p align="center">
-  **Here are some of my key source projects:**
   <table>
     <tr>
       <th>Project</th>
@@ -142,7 +132,7 @@
 
 ---
 
-## 🤝 **Top Projects I Contribute To**
+## 🤝 **Notable Contributions**
 
 <p align="center">
   <table>
@@ -166,7 +156,7 @@
 
 ---
 
-## 🌍 **Let's Connect**
+## 🌍 **Connect With Me**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abidhussainsoftware">
@@ -185,19 +175,19 @@
 
 ---
 
-## 💡 **Open-Source Contributions & Future Goals**
+## 💡 **Open-Source & Future Aspirations**
 
 ✅ Actively contributing to **open-source projects** in AI (specifically in natural language processing), web development (focusing on React component libraries), and software engineering.
 ✅ Looking to collaborate on **innovative projects** solving real-world problems, particularly in the EdTech and sustainable technology sectors.
 
 ---
 
-## 🎯 **How You Can Help Me**
+## 🎯 **Support My Work**
 
-✅ **Star** my repositories to show your support and help others discover my work.
-✅ **Follow** me on GitHub to stay updated on my latest projects and contributions.
-✅ **Let’s collaborate and build something impactful!** I'm particularly interested in contributing to projects that utilize the MERN stack or involve AI/ML integration.
+✅ **Star** my repositories if you find them helpful or interesting!
+✅ **Follow** me on GitHub to stay updated on my coding journey.
+✅ **Reach out for collaboration!** I'm eager to work on impactful projects, especially those involving the MERN stack or AI/ML.
 
 ---
 
-## **Let’s Build the Future Together!** 🚀
+## **Let's Innovate Together!** 🚀
