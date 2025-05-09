@@ -4,13 +4,15 @@
 
 ---
 
-## **About Me**
+## **About Me** 👋
 
-👋 Hi, I’m **Abid Hussain**, a **Full-Stack Developer** and **Website Enthusiast** with 3+ years of experience in **Website Development** and **Database Management**. I thrive on solving complex problems and delivering real-world projects with **clean, scalable, and efficient code**. In the past year, I led the front-end development of a customer portal that **improved user engagement by 15%**. Currently, I’m deepening my expertise in **serverless architectures and exploring the potential of WebAssembly**.
+Hi, I’m **Abid Hussain**, a **Full-Stack Developer** and **Website Enthusiast** with 3+ years of experience in **Website Development** and **Database Management**. I thrive on solving complex problems and delivering real-world projects with **clean, scalable, and efficient code**. In the past year, I led the front-end development of a customer portal that **improved user engagement by 15%**. Currently, I’m deepening my expertise in **serverless architectures and exploring the potential of WebAssembly**.
 
 🧠 **Experience:** 3+ years building modern web and AI solutions
 
 📍 **Location:** Karachi, Pakistan... a tiny dot dreaming big on the world map! 🌍
+
+✨ **Fun Fact:** I can type faster than I can explain recursion!
 
 ---
 
@@ -27,22 +29,20 @@
 
 ---
 
-## 🛠️ **Tech Stack**
+## ❤️ **Favorite Technologies**
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript">
+  <br>
+  I'm fascinated by the dynamic nature and vast ecosystem of JavaScript, especially within the MERN stack.
+  <br><br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" title="React">
+  <br>
+  Building interactive and user-friendly interfaces with React is something I truly enjoy.
+  <br><br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" title="Express.js">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" title="Next.js">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker">
-  <img src="https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" title="Stripe">
+  <br>
+  Node.js allows me to bring JavaScript to the backend, creating powerful and efficient server-side applications.
 </p>
 
 ---
@@ -57,7 +57,7 @@
   <img src="https://komarev.com/ghpvc/?username=AbidHussainOFFICIAL&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views">
   <img src="https://img.shields.io/badge/React-Enthusiast-61DAFB?style=flat-square" alt="React Enthusiast">
   <img src="https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=flat-square" alt="Open Source Contributor">
-</p>
+  </p>
 
 ---
 
@@ -159,30 +159,42 @@
 ## 🌍 **Connect With Me**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abidhussainsoftware">
+  <a href="https://www.linkedin.com/in/abidhussainsoftware" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:abidhussainkhaskheli786a@gmail.com">
+  <a href="mailto:abidhussainkhaskheli786a@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="https://github.com/AbidHussainOFFICIAL">
+  <a href="https://github.com/AbidHussainOFFICIAL" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://twitter.com/AbidHussainOFF">
+  <a href="https://twitter.com/AbidHussainOFF" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter">
+  </a>
+  <a href="[Your Stack Overflow Link]" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-Profile-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
   </a>
 </p>
 
 ---
 
-## 💡 **Open-Source & Future Aspirations**
+## 🎯 **Future Goals**
+
+- Deepen my understanding of advanced AI/ML concepts and implement them in personal projects.
+- Actively contribute to at least three significant open-source projects related to web accessibility and AI ethics.
+- Explore and implement a fully serverless architecture for a personal project by the end of the year.
+- Learn and become proficient in a new programming language relevant to AI research (e.g., Python).
+
+---
+
+## 💡 **Open-Source & Aspirations**
 
 ✅ Actively contributing to **open-source projects** in AI (specifically in natural language processing), web development (focusing on React component libraries), and software engineering.
 ✅ Looking to collaborate on **innovative projects** solving real-world problems, particularly in the EdTech and sustainable technology sectors.
 
 ---
 
-## 🎯 **Support My Work**
+## 🙏 **Support My Work**
 
 ✅ **Star** my repositories if you find them helpful or interesting!
 ✅ **Follow** me on GitHub to stay updated on my coding journey.
