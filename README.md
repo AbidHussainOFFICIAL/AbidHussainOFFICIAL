@@ -1,3 +1,7 @@
+
+<!-- SNAKE_GIF -->
+![GitHub Snake](dist/ocean.gif)
+
 # **Software Engineer – Full-Stack Developer | Website Specialist**
 
 > Passionate about **building scalable web applications, AI-driven solutions, and contributing to open-source projects to make technology better for everyone.**
