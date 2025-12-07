@@ -2,7 +2,7 @@ name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # daily at midnight UTC
+    - cron: "0 0 * * *"  # Daily at midnight UTC
   workflow_dispatch:
   push:
     branches:
@@ -14,7 +14,7 @@ jobs:
     timeout-minutes: 15
 
     steps:
-      # Step 1: Checkout the repository
+      # Step 1: Checkout repository
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
@@ -32,26 +32,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Update README with the latest GIF
-      - name: Update README with Snake GIF
-        run: |
-          README_FILE="README.md"
-          GIF_PATH="dist/ocean.gif"
-          # If the GIF tag already exists, replace it; otherwise, append
-          if grep -q "<!-- SNAKE_GIF -->" "$README_FILE"; then
-            # Replace the existing GIF line
-            sed -i "s|!\[GitHub Snake\](.*)|![GitHub Snake]($GIF_PATH)|g" "$README_FILE"
-          else
-            # Append GIF section at the top of README
-            echo -e "\n<!-- SNAKE_GIF -->\n![GitHub Snake]($GIF_PATH)\n" | cat - "$README_FILE" > temp && mv temp "$README_FILE"
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "$README_FILE"
-          git commit -m "Update README with latest snake GIF [skip ci]" || echo "No changes to commit"
-          git push origin main
-
-      # Step 4: Deploy the generated files to the 'output' branch
+      # Step 3: Deploy the generated files to 'output' branch (for GitHub Pages)
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
@@ -60,3 +41,36 @@ jobs:
           publish_branch: output
           commit_message: "Update snake animation [skip ci]"
           force_orphan: true
+
+      # Step 4: Update README with live GIF from GitHub Pages
+      - name: Update README with Live Snake GIF
+        run: |
+          # GitHub Pages URL for the 'output' branch
+          REPO_NAME="${GITHUB_REPOSITORY##*/}"
+          USER_NAME="${GITHUB_REPOSITORY_OWNER}"
+          GIF_URL="https://${USER_NAME}.github.io/${REPO_NAME}/ocean.gif"
+
+          README_FILE="README.md"
+
+          # Enhanced GIF section design
+          GIF_SECTION="\n<!-- SNAKE_GIF -->\n\
+<div align=\"center\">\n\
+<h3>🐍 GitHub Snake Animation</h3>\n\
+<p>Watch my GitHub contributions come alive!</p>\n\
+<img src=\"${GIF_URL}\" alt=\"GitHub Snake\" width=\"480\" />\n\
+</div>\n"
+
+          # Replace existing GIF section or append it
+          if grep -q "<!-- SNAKE_GIF -->" "$README_FILE"; then
+            # Remove old section
+            sed -i '/<!-- SNAKE_GIF -->/,/<\/div>/d' "$README_FILE"
+          fi
+          # Prepend new GIF section at the top
+          echo -e "$GIF_SECTION\n$(cat $README_FILE)" > "$README_FILE"
+
+          # Commit changes if any
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "$README_FILE"
+          git commit -m "Update README with live snake GIF [skip ci]" || echo "No changes to commit"
+          git push origin main
