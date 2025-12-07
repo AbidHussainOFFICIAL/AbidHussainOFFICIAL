@@ -11,7 +11,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
 
     steps:
       # Step 1: Checkout repository
@@ -20,19 +20,20 @@ jobs:
         with:
           persist-credentials: true
 
-      # Step 2: Generate GitHub Snake Animations
+      # Step 2: Generate GitHub Snake Animations (light + dark + custom theme)
       - name: Generate GitHub Snake Animations
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
+            dist/github-snake-light.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/ocean-light.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/ocean-dark.gif?palette=github-dark&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Deploy the generated files to 'output' branch (for GitHub Pages)
+      # Step 3: Deploy the generated files to 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
@@ -42,35 +43,39 @@ jobs:
           commit_message: "Update snake animation [skip ci]"
           force_orphan: true
 
-      # Step 4: Update README with live GIF from GitHub Pages
-      - name: Update README with Live Snake GIF
+      # Step 4: Update README with theme-aware GIF
+      - name: Update README with Theme-aware Snake GIF
         run: |
-          # GitHub Pages URL for the 'output' branch
           REPO_NAME="${GITHUB_REPOSITORY##*/}"
           USER_NAME="${GITHUB_REPOSITORY_OWNER}"
-          GIF_URL="https://${USER_NAME}.github.io/${REPO_NAME}/ocean.gif"
+
+          LIGHT_GIF_URL="https://${USER_NAME}.github.io/${REPO_NAME}/ocean-light.gif"
+          DARK_GIF_URL="https://${USER_NAME}.github.io/${REPO_NAME}/ocean-dark.gif"
 
           README_FILE="README.md"
 
-          # Enhanced GIF section design
+          # Theme-aware GIF section
           GIF_SECTION="\n<!-- SNAKE_GIF -->\n\
 <div align=\"center\">\n\
 <h3>🐍 GitHub Snake Animation</h3>\n\
 <p>Watch my GitHub contributions come alive!</p>\n\
-<img src=\"${GIF_URL}\" alt=\"GitHub Snake\" width=\"480\" />\n\
+<picture>\n\
+  <source srcset=\"${DARK_GIF_URL}\" media=\"(prefers-color-scheme: dark)\">\n\
+  <img src=\"${LIGHT_GIF_URL}\" alt=\"GitHub Snake\" width=\"480\" />\n\
+</picture>\n\
 </div>\n"
 
-          # Replace existing GIF section or append it
+          # Remove old GIF section if exists
           if grep -q "<!-- SNAKE_GIF -->" "$README_FILE"; then
-            # Remove old section
             sed -i '/<!-- SNAKE_GIF -->/,/<\/div>/d' "$README_FILE"
           fi
-          # Prepend new GIF section at the top
+
+          # Prepend new GIF section
           echo -e "$GIF_SECTION\n$(cat $README_FILE)" > "$README_FILE"
 
           # Commit changes if any
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add "$README_FILE"
-          git commit -m "Update README with live snake GIF [skip ci]" || echo "No changes to commit"
+          git commit -m "Update README with theme-aware snake GIF [skip ci]" || echo "No changes to commit"
           git push origin main
