@@ -1,7 +1,3 @@
-<span id="light-text">I am light mode text!</span><!--gh-light-mode-only-->
-<span id="dark-text">I am dark mode text!</span><!--gh-dark-mode-only-->
-
-
 
 <!-- SNAKE_GIF -->
 ![GitHub Snake](dist/ocean.gif)
