@@ -164,7 +164,7 @@ Currently, I’m deepening my expertise in **Advanced JavaScript** and **technol
 ## **Let’s Build the Future Together!** 🚀
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbidHussainOFFICIAL/AbidHussainOFFICIAL/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbidHussainOFFICIAL/AbidHussainOFFICIAL/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AbidHussainOFFICIAL/AbidHussainOFFICIAL/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
