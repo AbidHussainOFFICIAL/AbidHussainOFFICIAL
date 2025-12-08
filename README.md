@@ -60,7 +60,7 @@ Curious by nature, I constantly explore new technologies to create modern, innov
   </summary>
 
 
-### Languages
+### Languages:
 <p>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-ES6+-FFFFFF?style=for-the-badge&logo=javascript&logoColor=white" style="border-radius:20px;"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-Strongly_Typed-FFFFFF?style=for-the-badge&logo=typescript&logoColor=white" style="border-radius:20px;"/></a>&nbsp;
@@ -69,7 +69,7 @@ Curious by nature, I constantly explore new technologies to create modern, innov
 </p>
 
 
-### Frontend Development
+### Frontend Development:
 <p>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-Expert-FFFFFF?style=for-the-badge&logo=html5&logoColor=white" style="border-radius:20px;"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/CSS3-Expert-FFFFFF?style=for-the-badge&logo=css3&logoColor=white" style="border-radius:20px;"/></a>&nbsp;
@@ -81,7 +81,7 @@ Curious by nature, I constantly explore new technologies to create modern, innov
 </p>
 
 
-### Backend Development
+### Backend Development:
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Node.js-Advanced-FFFFFF?style=for-the-badge&logo=node.js&logoColor=white" style="border-radius:20px;"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Express.js-Advanced-FFFFFF?style=for-the-badge" style="border-radius:20px;"/></a>&nbsp;
@@ -89,7 +89,7 @@ Curious by nature, I constantly explore new technologies to create modern, innov
 </p>
 
 
-### Databases
+### Databases:
 <p>
   <a href="#"><img src="https://img.shields.io/badge/MongoDB-Advanced-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=white" style="border-radius:20px;"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-Advanced-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=white" style="border-radius:20px;"/></a>&nbsp;
@@ -98,7 +98,7 @@ Curious by nature, I constantly explore new technologies to create modern, innov
 </p>
 
 
-### Cloud & DevOps
+### Cloud & DevOps:
 <p>
   <a href="#"><img src="https://img.shields.io/badge/AWS-Intermediate-FFFFFF?style=for-the-badge&logo=amazon-aws&logoColor=white" style="border-radius:20px;"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Azure-Intermediate-FFFFFF?style=for-the-badge&logo=microsoft-azure&logoColor=white" style="border-radius:20px;"/></a>&nbsp;
@@ -108,7 +108,7 @@ Curious by nature, I constantly explore new technologies to create modern, innov
 </p>
 
 
-### Tools & Design
+### Tools & Design:
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Git-Advanced-FFFFFF?style=for-the-badge&logo=git&logoColor=white" style="border-radius:20px;"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/GitHub-Advanced-FFFFFF?style=for-the-badge&logo=github&logoColor=white" style="border-radius:20px;"/></a>&nbsp;
