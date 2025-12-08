@@ -38,8 +38,7 @@ Curious by nature, I constantly explore new technologies to create modern, innov
 <img src="https://skillicons.dev/icons?i=docker&theme=light" height="45" />&nbsp;
 <img src="https://skillicons.dev/icons?i=kubernetes&theme=light" height="45" />
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="45" />&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="45" />&nbsp;
 <img src="https://skillicons.dev/icons?i=express&theme=light" height="45" />&nbsp;
 <img src="https://skillicons.dev/icons?i=spring&theme=light" height="45" /> &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="45" />&nbsp;
