@@ -26,12 +26,12 @@ Curious by nature, I constantly explore new technologies to create modern, innov
 <img src="https://skillicons.dev/icons?i=js&theme=light" height="45" />&nbsp;
 <img src="https://skillicons.dev/icons?i=ts&theme=light" height="45" />&nbsp;
 <img src="https://skillicons.dev/icons?i=java&theme=light" height="45" />&nbsp;
-<img src="https://skillicons.dev/icons?i=python&theme=light" height="45" />&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=python&theme=light" height="45" />&nbsp; &nbsp; &nbsp;
 <img src="https://skillicons.dev/icons?i=react&theme=light" height="45" />&nbsp;
 <img src="https://skillicons.dev/icons?i=nextjs&theme=light" height="45" />&nbsp;
 <img src="https://skillicons.dev/icons?i=tailwind&theme=light" height="45" />&nbsp;
 <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" height="45" />&nbsp;
-<img src="https://skillicons.dev/icons?i=redux&theme=light" height="45" /> &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=redux&theme=light" height="45" /> &nbsp; &nbsp; &nbsp;
 <img src="https://skillicons.dev/icons?i=aws&theme=light" height="45" />&nbsp;
 <img src="https://skillicons.dev/icons?i=azure&theme=light" height="45" />&nbsp;
 <img src="https://skillicons.dev/icons?i=gcp&theme=light" height="45" />&nbsp;
@@ -40,15 +40,15 @@ Curious by nature, I constantly explore new technologies to create modern, innov
 <br><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="45" />&nbsp;
 <img src="https://skillicons.dev/icons?i=express&theme=light" height="45" />&nbsp;
-<img src="https://skillicons.dev/icons?i=spring&theme=light" height="45" /> &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=spring&theme=light" height="45" /> &nbsp; &nbsp; &nbsp;
 <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="45" />&nbsp;
 <img src="https://skillicons.dev/icons?i=postgres&theme=light" height="45" />&nbsp;
 <img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="45" />&nbsp;
-<img src="https://skillicons.dev/icons?i=redis&theme=light" height="45" /> &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=redis&theme=light" height="45" /> &nbsp; &nbsp; &nbsp;
 <img src="https://skillicons.dev/icons?i=git&theme=light" height="45" />&nbsp;
 <img src="https://skillicons.dev/icons?i=github&theme=light" height="45" />&nbsp;
 <img src="https://skillicons.dev/icons?i=figma&theme=light" height="45" />&nbsp;
-<img src="https://skillicons.dev/icons?i=postman&theme=light" height="45" /> &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=postman&theme=light" height="45" /> &nbsp; &nbsp;
 
 </p>
 
