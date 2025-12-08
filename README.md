@@ -1,5 +1,3 @@
-<span class="light">Light mode text</span>
-<span class="dark">Dark mode text</span>
 
 <!-- SNAKE_GIF -->
 ![GitHub Snake](dist/ocean.gif)
