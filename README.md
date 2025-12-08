@@ -18,9 +18,18 @@ Curious by nature, I constantly explore new technologies to create modern, innov
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f449_1f3fb/512.gif" alt="👉" width="36" height="36"> Tech Stack & Skills
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f449_1f3fb/512.gif" alt="👉" width="36" height="36"> My Tech Skills and Expertise
 
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=js,ts,java,python&theme=dark" height="45" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux&theme=dark" height="45" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" height="45" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" height="45" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes&theme=dark" height="45" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman&theme=dark" height="45" />
+
+</p>
 
 
 ---
