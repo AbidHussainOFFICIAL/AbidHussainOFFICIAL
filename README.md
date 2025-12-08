@@ -9,11 +9,12 @@
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="🖐🏻" width="37" height="37" style="vertical-align:text-top;">&nbsp;&nbsp;Hi, I’m Abid Hussain
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="🖐🏻" width="35" height="37">&nbsp;&nbsp;<span style="position: relative; top:-4px;">Hi, I’m Abid Hussain</span>
 
 I’m a **Full-Stack Developer** and **Website Enthusiast** who loves building **clean, scalable, and efficient web solutions**.  
 I turn complex ideas into real-world projects that make an impact and deliver real value.  
 Curious by nature, I constantly explore new technologies to create modern, innovative, and user-friendly applications—perfect for both personal projects and client work.
+
 
 ---
 
