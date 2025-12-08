@@ -18,32 +18,11 @@ Curious by nature, I constantly explore new technologies to create modern, innov
 
 ---
 
-## 🛠 **Tech Stack**
+<h2>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f449_1f3fb/512.gif" alt="👉" width="32" height="32" style="vertical-align: middle;">
+  <span style="vertical-align: middle;">Tech Stack & Skills</span>
+</h2>
 
-<p align="center">
-  <table>
-    <tr>
-      <th>Category</th>
-      <th>Technologies</th>
-    </tr>
-    <tr>
-      <td><b>Programming Languages</b></td>
-      <td>JavaScript (Node.js, React.js, TypeScript), C, C++, Java, HTML, CSS</td>
-    </tr>
-    <tr>
-      <td><b>Web Development</b></td>
-      <td>MERN Stack (MongoDB, Express, React, Node.js), Next.js, REST APIs, Microservices</td>
-    </tr>
-    <tr>
-      <td><b>Databases</b></td>
-      <td>MySQL, MongoDB</td>
-    </tr>
-    <tr>
-      <td><b>Tools & Other Skills</b></td>
-      <td>Stripe (Payment Integration), Git, GitHub, CI/CD, Docker</td>
-    </tr>
-  </table>
-</p>
 
 ---
 
