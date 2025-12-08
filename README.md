@@ -9,27 +9,11 @@
 
 ---
 
-## **About Me**  
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="🖐🏻" width="37" height="37" style="vertical-align:-8px;">&nbsp;&nbsp;Hi, I’m Abid Hussain
 
-👋 Hi, I’m **Abid Hussain**, a **Full-Stack Developer** and **Website Enthusiast** with expertise in **Website Development** and **Database Management**.  
-I thrive on solving complex problems and delivering real-world projects with **clean, scalable, and efficient code**.  
-Currently, I’m deepening my expertise in **Advanced JavaScript** and **technologies**.
-
-🧠 **Experience:** 3+ years building modern web and AI solutions
-
-📍 **Location:** Karachi, Pakistan... a tiny dot dreaming big on the world map!🌍
-
----
- **Email:** [abidhussainkhaskheli786a@gmail.com](mailto:abidhussainkhaskheli786a@gmail.com)  
- **Portfolio:** *Coming Soon*  
- **LinkedIn:** [in/abidhussainsoftware](https://www.linkedin.com/in/abidhussainsoftware)  
- **GitHub:** [AbidHussainOFFICIAL](https://github.com/AbidHussainOFFICIAL)  
-
----
-
-<p align="center">
-  <img src="https://github.com/AbidHussainOFFICIAL/AbidHussainOFFICIAL/blob/main/assets/banner.png" alt="Custom Banner" width="80%">
-</p>
+I’m a **Full-Stack Developer** and **Website Enthusiast** who loves building **clean, scalable, and efficient web solutions**.  
+I turn complex ideas into real-world projects that make an impact and deliver real value.  
+Curious by nature, I constantly explore new technologies to create modern, innovative, and user-friendly applications—perfect for both personal projects and client work.
 
 ---
 
