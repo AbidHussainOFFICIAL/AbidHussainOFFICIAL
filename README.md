@@ -59,11 +59,9 @@ Curious by nature, I constantly explore new technologies to create modern, innov
     ➤ Tech Stack & Skills
   </summary>
 
-<br>
-
-<h3 style="color:#FFFFFF;">
+<h1 style="color:#FFFFFF;">
   <img src="https://img.icons8.com/ios-filled/24/ffffff/programming.png" alt="Languages" style="vertical-align:middle;"/> Languages
-</h3>
+</h1>
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-ES6+-FFFFFF?style=for-the-badge&logo=javascript&logoColor=white" style="border-radius:20px;"/></a>&nbsp;
@@ -72,7 +70,6 @@ Curious by nature, I constantly explore new technologies to create modern, innov
   <a href="#"><img src="https://img.shields.io/badge/Python-Intermediate-FFFFFF?style=for-the-badge&logo=python&logoColor=white" style="border-radius:20px;"/></a>
 </p>
 
-<br>
 
 <h3 style="color:#FFFFFF;">
   <img src="https://img.icons8.com/ios-filled/24/ffffff/web-design.png" alt="Frontend" style="vertical-align:middle;"/> Frontend Development
@@ -84,7 +81,6 @@ Curious by nature, I constantly explore new technologies to create modern, innov
   <a href="#"><img src="https://img.shields.io/badge/React-Advanced-FFFFFF?style=for-the-badge&logo=react&logoColor=white" style="border-radius:20px;"/></a>
 </p>
 
-<br>
 
 <h3 style="color:#FFFFFF;">
   <img src="https://img.icons8.com/ios-filled/24/ffffff/server.png" alt="Backend" style="vertical-align:middle;"/> Backend Development
@@ -95,7 +91,6 @@ Curious by nature, I constantly explore new technologies to create modern, innov
   <a href="#"><img src="https://img.shields.io/badge/Express.js-Advanced-FFFFFF?style=for-the-badge" style="border-radius:20px;"/></a>
 </p>
 
-<br>
 
 <h3 style="color:#FFFFFF;">
   <img src="https://img.icons8.com/ios-filled/24/ffffff/toolbox.png" alt="Tools" style="vertical-align:middle;"/> Tools & Design
@@ -106,7 +101,6 @@ Curious by nature, I constantly explore new technologies to create modern, innov
   <a href="#"><img src="https://img.shields.io/badge/GitHub-Advanced-FFFFFF?style=for-the-badge&logo=github&logoColor=white" style="border-radius:20px;"/></a>
 </p>
 
-<br>
 </details>
 
 
