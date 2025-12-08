@@ -53,11 +53,13 @@ Curious by nature, I constantly explore new technologies to create modern, innov
 </p>
 
 
-<details style="border-radius:25px; background-color:#000000; text-align:center;">
-  <summary style="font-size:1.2em; font-weight:600; cursor:pointer; outline:none; list-style:none; 
-                  border-radius:20px; background-color:#000000; color:#FFFFFF;">
-    ➤ Tech Stack & Skills
+<details>
+  <summary>
+    
+### Tech Stack & Skills
+
   </summary>
+
 
 
 ### Languages :
