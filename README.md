@@ -59,7 +59,6 @@ Curious by nature, I constantly explore new technologies to create modern, innov
     ➤ Tech Stack & Skills
   </summary>
 
-<br>
 
 ### Languages
 <p>
@@ -69,7 +68,6 @@ Curious by nature, I constantly explore new technologies to create modern, innov
   <a href="#"><img src="https://img.shields.io/badge/Python-Intermediate-FFFFFF?style=for-the-badge&logo=python&logoColor=white" style="border-radius:20px;"/></a>
 </p>
 
-<br>
 
 ### Frontend Development
 <p>
@@ -82,7 +80,6 @@ Curious by nature, I constantly explore new technologies to create modern, innov
   <a href="#"><img src="https://img.shields.io/badge/Redux-Intermediate-FFFFFF?style=for-the-badge&logo=redux&logoColor=white" style="border-radius:20px;"/></a>
 </p>
 
-<br>
 
 ### Backend Development
 <p>
@@ -91,7 +88,6 @@ Curious by nature, I constantly explore new technologies to create modern, innov
   <a href="#"><img src="https://img.shields.io/badge/Spring-Advanced-FFFFFF?style=for-the-badge&logo=spring&logoColor=white" style="border-radius:20px;"/></a>
 </p>
 
-<br>
 
 ### Databases
 <p>
@@ -101,7 +97,6 @@ Curious by nature, I constantly explore new technologies to create modern, innov
   <a href="#"><img src="https://img.shields.io/badge/Redis-Intermediate-FFFFFF?style=for-the-badge&logo=redis&logoColor=white" style="border-radius:20px;"/></a>
 </p>
 
-<br>
 
 ### Cloud & DevOps
 <p>
@@ -112,7 +107,6 @@ Curious by nature, I constantly explore new technologies to create modern, innov
   <a href="#"><img src="https://img.shields.io/badge/Kubernetes-Intermediate-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=white" style="border-radius:20px;"/></a>
 </p>
 
-<br>
 
 ### Tools & Design
 <p>
@@ -122,7 +116,6 @@ Curious by nature, I constantly explore new technologies to create modern, innov
   <a href="#"><img src="https://img.shields.io/badge/Postman-Intermediate-FFFFFF?style=for-the-badge&logo=postman&logoColor=white" style="border-radius:20px;"/></a>
 </p>
 
-<br>
 </details>
 
 
