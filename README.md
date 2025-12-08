@@ -56,7 +56,7 @@ Curious by nature, I constantly explore new technologies to create modern, innov
 <details>
   <summary>
     
-### Tech Stack & Skills
+## Tech Stack & Skills
 
   </summary>
 
