@@ -53,68 +53,62 @@ Curious by nature, I constantly explore new technologies to create modern, innov
 </p>
 
 
-<details style="border-radius:25px; background-color:#000000; padding:15px 25px; max-width:800px; margin:20px auto;">
+<details style="border-radius:25px; background-color:#000000; text-align:center;">
   <summary style="font-size:1.2em; font-weight:600; cursor:pointer; outline:none; list-style:none; 
-                  padding:10px 15px; border-radius:20px; background-color:#000000; color:#FFFFFF; text-align:center;">
+                  border-radius:20px; background-color:#000000; color:#FFFFFF;">
     ➤ Tech Stack & Skills
   </summary>
 
-<h3 style="color:#FFFFFF; margin:20px 0;">
-  <img src="https://img.icons8.com/ios-filled/24/ffffff/programming.png" alt="Languages" style="vertical-align:middle; margin-right:8px;"/>
-  Languages
+<br>
+
+<h3 style="color:#FFFFFF;">
+  <img src="https://img.icons8.com/ios-filled/24/ffffff/programming.png" alt="Languages" style="vertical-align:middle;"/> Languages
 </h3>
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-ES6+-FFFFFF?style=for-the-badge&logo=javascript&logoColor=white" style="border-radius:20px;"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-Strongly_Typed-FFFFFF?style=for-the-badge&logo=typescript&logoColor=white" style="border-radius:20px;"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-Intermediate-FFFFFF?style=for-the-badge&logo=java&logoColor=white" style="border-radius:20px;"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-ES6+-FFFFFF?style=for-the-badge&logo=javascript&logoColor=white" style="border-radius:20px;"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-Strongly_Typed-FFFFFF?style=for-the-badge&logo=typescript&logoColor=white" style="border-radius:20px;"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Java-Intermediate-FFFFFF?style=for-the-badge&logo=java&logoColor=white" style="border-radius:20px;"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Python-Intermediate-FFFFFF?style=for-the-badge&logo=python&logoColor=white" style="border-radius:20px;"/></a>
 </p>
 
-<h3 style="color:#FFFFFF; margin:20px 0;">
-  <img src="https://img.icons8.com/ios-filled/24/ffffff/web-design.png" alt="Frontend" style="vertical-align:middle; margin-right:8px;"/>
-  Frontend Development
+<br>
+
+<h3 style="color:#FFFFFF;">
+  <img src="https://img.icons8.com/ios-filled/24/ffffff/web-design.png" alt="Frontend" style="vertical-align:middle;"/> Frontend Development
 </h3>
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-Expert-FFFFFF?style=for-the-badge&logo=html5&logoColor=white" style="border-radius:20px;"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-Expert-FFFFFF?style=for-the-badge&logo=css3&logoColor=white" style="border-radius:20px;"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-Expert-FFFFFF?style=for-the-badge&logo=html5&logoColor=white" style="border-radius:20px;"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-Expert-FFFFFF?style=for-the-badge&logo=css3&logoColor=white" style="border-radius:20px;"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/React-Advanced-FFFFFF?style=for-the-badge&logo=react&logoColor=white" style="border-radius:20px;"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Next.js-Advanced-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=white" style="border-radius:20px;"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-Advanced-FFFFFF?style=for-the-badge&logo=tailwind-css&logoColor=white" style="border-radius:20px;"/></a>
 </p>
 
-<h3 style="color:#FFFFFF; margin:20px 0;">
-  <img src="https://img.icons8.com/ios-filled/24/ffffff/server.png" alt="Backend" style="vertical-align:middle; margin-right:8px;"/>
-  Backend Development
+<br>
+
+<h3 style="color:#FFFFFF;">
+  <img src="https://img.icons8.com/ios-filled/24/ffffff/server.png" alt="Backend" style="vertical-align:middle;"/> Backend Development
 </h3>
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-Advanced-FFFFFF?style=for-the-badge&logo=node.js&logoColor=white" style="border-radius:20px;"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-Advanced-FFFFFF?style=for-the-badge&logo=node.js&logoColor=white" style="border-radius:20px;"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Express.js-Advanced-FFFFFF?style=for-the-badge" style="border-radius:20px;"/></a>
 </p>
 
-<h3 style="color:#FFFFFF; margin:20px 0;">
-  <img src="https://img.icons8.com/ios-filled/24/ffffff/database.png" alt="Databases" style="vertical-align:middle; margin-right:8px;"/>
-  Databases
+<br>
+
+<h3 style="color:#FFFFFF;">
+  <img src="https://img.icons8.com/ios-filled/24/ffffff/toolbox.png" alt="Tools" style="vertical-align:middle;"/> Tools & Design
 </h3>
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-Advanced-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=white" style="border-radius:20px;"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-Advanced-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=white" style="border-radius:20px;"/></a>
-</p>
-
-<h3 style="color:#FFFFFF; margin:20px 0;">
-  <img src="https://img.icons8.com/ios-filled/24/ffffff/toolbox.png" alt="Tools" style="vertical-align:middle; margin-right:8px;"/>
-  Tools & Design
-</h3>
-
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Git-Advanced-FFFFFF?style=for-the-badge&logo=git&logoColor=white" style="border-radius:20px;"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-Advanced-FFFFFF?style=for-the-badge&logo=git&logoColor=white" style="border-radius:20px;"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/GitHub-Advanced-FFFFFF?style=for-the-badge&logo=github&logoColor=white" style="border-radius:20px;"/></a>
 </p>
 
+<br>
 </details>
+
 
 ---
 
