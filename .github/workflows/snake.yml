@@ -1,69 +1,27 @@
-name: GitHub Snake Game
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Daily at midnight UTC
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 20
-
-    steps:
-      # Step 1: Checkout repository
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-        with:
-          persist-credentials: true
-
-      # Step 2: Generate GitHub Snake Animations (light + dark + custom theme)
-      - name: Generate GitHub Snake Animations
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake-light.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean-light.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/ocean-dark.gif?palette=github-dark&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # Step 3: Deploy the generated files to 'output' branch
-      - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          commit_message: "Update snake animation [skip ci]"
-          force_orphan: true
-
       # Step 4: Update README with theme-aware GIF
       - name: Update README with Theme-aware Snake GIF
         run: |
           REPO_NAME="${GITHUB_REPOSITORY##*/}"
           USER_NAME="${GITHUB_REPOSITORY_OWNER}"
-
           LIGHT_GIF_URL="https://${USER_NAME}.github.io/${REPO_NAME}/ocean-light.gif"
           DARK_GIF_URL="https://${USER_NAME}.github.io/${REPO_NAME}/ocean-dark.gif"
-
           README_FILE="README.md"
 
-          # Theme-aware GIF section
-          GIF_SECTION="\n<!-- SNAKE_GIF -->\n\
-<div align=\"center\">\n\
-<h3>🐍 GitHub Snake Animation</h3>\n\
-<p>Watch my GitHub contributions come alive!</p>\n\
-<picture>\n\
-  <source srcset=\"${DARK_GIF_URL}\" media=\"(prefers-color-scheme: dark)\">\n\
-  <img src=\"${LIGHT_GIF_URL}\" alt=\"GitHub Snake\" width=\"480\" />\n\
-</picture>\n\
-</div>\n"
+          # Theme-aware GIF section (fixed YAML multiline)
+          GIF_SECTION=$(cat <<'EOF'
+
+<!-- SNAKE_GIF -->
+<div align="center">
+<h3>🐍 GitHub Snake Animation</h3>
+<p>Watch my GitHub contributions come alive!</p>
+<picture>
+  <source srcset="'${DARK_GIF_URL}'" media="(prefers-color-scheme: dark)">
+  <img src="'${LIGHT_GIF_URL}'" alt="GitHub Snake" width="480" />
+</picture>
+</div>
+
+EOF
+)
 
           # Remove old GIF section if exists
           if grep -q "<!-- SNAKE_GIF -->" "$README_FILE"; then
