@@ -4,7 +4,8 @@
 
 # **Software Engineer – Full-Stack Developer | Website Specialist**
 
-> Passionate about **building scalable web applications, AI-driven solutions, and contributing to open-source projects to make technology better for everyone.**
+> Passionate about **building scalable web applications**, **enhancing websites with AI and modern UI/UX**, **developing intelligent AI-driven solutions**, and **contributing to open-source projects** that make technology more **accessible, impactful, and user-friendly**. Always eager to take on freelance projects that bring ideas to life and solve real-world problems.
+
 
 ---
 
