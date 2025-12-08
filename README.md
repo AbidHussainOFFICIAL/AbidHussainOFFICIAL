@@ -18,11 +18,8 @@ Curious by nature, I constantly explore new technologies to create modern, innov
 
 ---
 
-<h2>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f449_1f3fb/512.gif" 
-       alt="👉" width="36" height="36" style="vertical-align: middle; margin-right: 10px;">
-  <span style="vertical-align: middle; font-size: 32px; font-weight: 700;">Tech Stack & Skills</span>
-</h2>
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f449_1f3fb/512.gif" alt="👉" width="36" height="36"> Tech Stack & Skills
+
 
 
 
