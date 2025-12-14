@@ -1,25 +1,60 @@
-# Step 4: Update README with theme-aware Snake GIF
-- name: Update README with Theme-aware Snake GIF
-  shell: bash
-  run: |
-    set -e
+name: Generate Snake & Update README
 
-    REPO_NAME="${GITHUB_REPOSITORY##*/}"
-    USER_NAME="${GITHUB_REPOSITORY_OWNER}"
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # runs daily
 
-    LIGHT_GIF_URL="https://${USER_NAME}.github.io/${REPO_NAME}/ocean-light.gif"
-    DARK_GIF_URL="https://${USER_NAME}.github.io/${REPO_NAME}/ocean-dark.gif"
+# 🔐 REQUIRED PERMISSIONS
+permissions:
+  contents: write
 
-    README_FILE="README.md"
+jobs:
+  snake:
+    runs-on: ubuntu-latest
 
-    # Ensure README exists
-    if [ ! -f "$README_FILE" ]; then
-      echo "# ${USER_NAME}" > "$README_FILE"
-    fi
+    steps:
+      # 1️⃣ Checkout repository (MANDATORY)
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    # Build snake section (variables MUST expand)
-    read -r -d '' GIF_SECTION <<EOF || true
+      # 2️⃣ Generate snake GIFs
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: AbidHussainOFFICIAL
+          outputs: |
+            dist/ocean-light.gif
+            dist/ocean-dark.gif?palette=github-dark
 
+      # 3️⃣ Push GIFs to gh-pages (auto-creates branch)
+      - name: Deploy snake GIFs to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: gh-pages
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 4️⃣ Update README with theme-aware Snake GIF
+      - name: Update README with theme-aware Snake GIF
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          REPO_NAME="${GITHUB_REPOSITORY##*/}"
+          USER_NAME="${GITHUB_REPOSITORY_OWNER}"
+
+          LIGHT_GIF_URL="https://${USER_NAME}.github.io/${REPO_NAME}/ocean-light.gif"
+          DARK_GIF_URL="https://${USER_NAME}.github.io/${REPO_NAME}/ocean-dark.gif"
+
+          README_FILE="README.md"
+
+          # Ensure README exists
+          [ -f "$README_FILE" ] || echo "# ${USER_NAME}" > "$README_FILE"
+
+          # Build snake section
+          read -r -d '' GIF_SECTION <<EOF || true
 <!-- SNAKE_GIF -->
 <div align="center">
   <h3>🐍 GitHub Snake Animation</h3>
@@ -29,25 +64,24 @@
     <img src="${LIGHT_GIF_URL}" alt="GitHub Snake" style="max-width:480px;width:100%;" />
   </picture>
 </div>
-
 EOF
 
-    # Remove old snake section safely
-    sed -i.bak '/<!-- SNAKE_GIF -->/,/<\/div>/d' "$README_FILE" || true
-    rm -f README.md.bak
+          # Remove old snake section if exists
+          sed -i.bak '/<!-- SNAKE_GIF -->/,/<\/div>/d' "$README_FILE" || true
+          rm -f README.md.bak
 
-    # Prepend new section
-    printf "%s\n\n%s" "$GIF_SECTION" "$(cat "$README_FILE")" > "$README_FILE.tmp"
-    mv "$README_FILE.tmp" "$README_FILE"
+          # Prepend new snake section
+          printf "%s\n\n%s\n" "$GIF_SECTION" "$(cat "$README_FILE")" > README.tmp
+          mv README.tmp "$README_FILE"
 
-    # Commit only if changed
-    if git diff --quiet; then
-      echo "No README changes detected"
-      exit 0
-    fi
+          # Commit only if README changed
+          if git diff --quiet; then
+            echo "No README changes detected"
+            exit 0
+          fi
 
-    git config user.name "github-actions[bot]"
-    git config user.email "github-actions[bot]@users.noreply.github.com"
-    git add "$README_FILE"
-    git commit -m "chore: update README snake animation"
-    git push
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update README snake animation"
+          git push origin main
