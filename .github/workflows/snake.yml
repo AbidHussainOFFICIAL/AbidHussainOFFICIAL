@@ -1,14 +1,24 @@
-# Step 4: Update README with theme-aware GIF
+# Step 4: Update README with theme-aware Snake GIF
 - name: Update README with Theme-aware Snake GIF
+  shell: bash
   run: |
+    set -e
+
     REPO_NAME="${GITHUB_REPOSITORY##*/}"
     USER_NAME="${GITHUB_REPOSITORY_OWNER}"
+
     LIGHT_GIF_URL="https://${USER_NAME}.github.io/${REPO_NAME}/ocean-light.gif"
     DARK_GIF_URL="https://${USER_NAME}.github.io/${REPO_NAME}/ocean-dark.gif"
+
     README_FILE="README.md"
 
-    # Theme-aware GIF section (VARIABLES MUST EXPAND)
-    GIF_SECTION=$(cat <<EOF
+    # Ensure README exists
+    if [ ! -f "$README_FILE" ]; then
+      echo "# ${USER_NAME}" > "$README_FILE"
+    fi
+
+    # Build snake section (variables MUST expand)
+    read -r -d '' GIF_SECTION <<EOF || true
 
 <!-- SNAKE_GIF -->
 <div align="center">
@@ -16,24 +26,28 @@
   <p>Watch my GitHub contributions come alive!</p>
   <picture>
     <source srcset="${DARK_GIF_URL}" media="(prefers-color-scheme: dark)">
-    <img src="${LIGHT_GIF_URL}" alt="GitHub Snake" width="480" />
+    <img src="${LIGHT_GIF_URL}" alt="GitHub Snake" style="max-width:480px;width:100%;" />
   </picture>
 </div>
 
 EOF
-)
 
-    # Remove old GIF section if exists
-    if grep -q "<!-- SNAKE_GIF -->" "$README_FILE"; then
-      sed -i '/<!-- SNAKE_GIF -->/,/<\/div>/d' "$README_FILE"
+    # Remove old snake section safely
+    sed -i.bak '/<!-- SNAKE_GIF -->/,/<\/div>/d' "$README_FILE" || true
+    rm -f README.md.bak
+
+    # Prepend new section
+    printf "%s\n\n%s" "$GIF_SECTION" "$(cat "$README_FILE")" > "$README_FILE.tmp"
+    mv "$README_FILE.tmp" "$README_FILE"
+
+    # Commit only if changed
+    if git diff --quiet; then
+      echo "No README changes detected"
+      exit 0
     fi
 
-    # Prepend new GIF section
-    echo -e "$GIF_SECTION\n$(cat $README_FILE)" > "$README_FILE"
-
-    # Commit changes if any
     git config user.name "github-actions[bot]"
     git config user.email "github-actions[bot]@users.noreply.github.com"
     git add "$README_FILE"
-    git commit -m "Update README with theme-aware snake GIF [skip ci]" || echo "No changes to commit"
-    git push origin main
+    git commit -m "chore: update README snake animation"
+    git push
