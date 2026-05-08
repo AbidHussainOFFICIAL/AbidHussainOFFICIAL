@@ -132,13 +132,13 @@ Curious by nature, I constantly explore new technologies to create modern, innov
 </h2>
 
 
-<h2 style="display: flex; align-items: center; gap: 12px; font-size: 28px; font-weight: 700; color: #222; line-height: 1; margin: 0;">
+<!-- <h2 style="display: flex; align-items: center; gap: 12px; font-size: 28px; font-weight: 700; color: #222; line-height: 1; margin: 0;"> -->
   <picture style="display: inline-block;">
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f449_1f3fb/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f449_1f3fb/512.gif" alt="👉" width="32" height="32" style="display: inline-block; vertical-align: middle;">
-  </picture>
-  <span style="display: inline-block; vertical-align: middle; font-weight: 900;">Featured Projects</span>
-</h2>
+    <!-- <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f449_1f3fb/512.webp" type="image/webp"> -->
+    <!-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f449_1f3fb/512.gif" alt="👉" width="32" height="32" style="display: inline-block; vertical-align: middle;"> -->
+  <!-- </picture> -->
+  <!-- <span style="display: inline-block; vertical-align: middle; font-weight: 900;">Featured Projects</span> -->
+<!-- </h2> -->
 
 
 <h1 style="font-size: 25px; font-weight: 700;">
