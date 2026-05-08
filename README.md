@@ -145,14 +145,14 @@ Curious by nature, I constantly explore new technologies to create modern, innov
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" width="25" height="25" style="vertical-align: -4px; margin-right: 8px; fill: currentColor;">
     <path d="M32 32C14.3 32 0 46.3 0 64S14.3 96 32 96l64 0 0 320-64 0c-17.7 0-32 14.3-32 32s14.3 32 32 32l192 0c17.7 0 32-14.3 32-32s-14.3-32-32-32l-64 0 0-352c0-17.7-14.3-32-32-32L32 32z"/>
   </svg>
-  Futuristic Web App
+  <!-- Futuristic Web App -->
 </h1>  
 
 **A modern full-stack web app delivering _[main feature/benefit]_ with speed and reliability.**
 
 <h3 style="display:flex; align-items:center; gap:8px;">
   <img src="https://img.icons8.com/comic/100/link.png" style="height:30px;" />
-  Links:
+  <!-- Links: -->
 </h3>
 
 
@@ -160,14 +160,14 @@ Curious by nature, I constantly explore new technologies to create modern, innov
 
   <div style="display:flex; align-items:center; gap:8px;">
     <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/streamystats-light.webp" style="height:20px;" />
-    <strong>Live Demo:</strong>
-    <a href="https://your-live-demo" target="_blank" style="color:#4DA6FF;">https://your-live-demo</a>
+    <!-- <strong>Live Demo:</strong> -->
+    <!-- <a href="https://your-live-demo" target="_blank" style="color:#4DA6FF;">https://your-live-demo</a> -->
   </div>
 
   <div style="display:flex; align-items:center; gap:8px;">
     <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/github-light.webp" style="height:20px;" />
-    <strong>Repository:</strong>
-    <a href="https://github.com/Hussain/project" target="_blank" style="color:#4DA6FF;">https://github.com/Hussain/project</a>
+    <!-- <strong>Repository:</strong> -->
+    <!-- <a href="https://github.com/Hussain/project" target="_blank" style="color:#4DA6FF;">https://github.com/Hussain/project</a> -->
   </div>
 
 </div> 
@@ -177,7 +177,7 @@ Curious by nature, I constantly explore new technologies to create modern, innov
     <summary style="font-size:1.2em; font-weight:600; cursor:pointer; outline:none; list-style:none; 
                     padding:10px 15px; border-radius:20px; background-color:#FFFFFF; color:#000000; 
                     transition: all 0.3s ease; filter: brightness(1.05); text-align:center;">
-      ➤ Project Details
+      <!-- ➤ Project Details -->
     </summary>
 <br>
 
